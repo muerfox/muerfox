@@ -1,4 +1,4 @@
-# Hi, I'm Jackie 👋
+# Hi, I'm Muhamad 👋
 
 **DevOps engineer** building self-hosted infrastructure, Python backends and automation on Linux, packaged to run with a single `docker compose up`.
 
